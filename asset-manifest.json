@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/YourFit/static/css/main.59fdc068.css",
+    "main.js": "/YourFit/static/js/main.9d2a4fe1.js",
+    "static/js/453.ed3810f9.chunk.js": "/YourFit/static/js/453.ed3810f9.chunk.js",
+    "static/media/face.png": "/YourFit/static/media/face.b10d9beccbec7ede0829.png",
+    "static/media/backstage.jfif": "/YourFit/static/media/backstage.235a21efc1f1f08020c6.jfif",
+    "static/media/Signika-SemiBold.woff2": "/YourFit/static/media/Signika-SemiBold.486b51b822f941690a40.woff2",
+    "static/media/Signika-Medium.woff2": "/YourFit/static/media/Signika-Medium.a9fa1aaa55657dc249bd.woff2",
+    "static/media/Signika-Regular.woff2": "/YourFit/static/media/Signika-Regular.fa89e0a51d62be9bf59a.woff2",
+    "static/media/Signika-Bold.woff2": "/YourFit/static/media/Signika-Bold.a88baece3fe50b0520e7.woff2",
+    "static/media/Signika-Light.woff2": "/YourFit/static/media/Signika-Light.53c01816d81310ad57f4.woff2",
+    "static/media/Inter-Regular.woff2": "/YourFit/static/media/Inter-Regular.ab945c53cca7263f39f9.woff2",
+    "static/media/gym.jfif": "/YourFit/static/media/gym.bb45f504a0a5f8b04ad8.jfif",
+    "static/media/ropes.jfif": "/YourFit/static/media/ropes.636307890c91066cd624.jfif",
+    "static/media/logo-default.svg": "/YourFit/static/media/logo-default.da8e7961913bcaedcf4d202df08f5254.svg",
+    "static/media/money-bag.svg": "/YourFit/static/media/money-bag.45ef49ced2e27d76b8b0.svg",
+    "static/media/linkedin.svg": "/YourFit/static/media/linkedin.da234f62a6b4db46fa5b1428d79085c1.svg",
+    "static/media/dumbbell.svg": "/YourFit/static/media/dumbbell.5f606e9820345384eef9.svg",
+    "static/media/github.svg": "/YourFit/static/media/github.b37fd243939105aa3cd756faa0553767.svg",
+    "static/media/instagram.svg": "/YourFit/static/media/instagram.af6bebb5770e3a2b1eab9c52568a458c.svg",
+    "static/media/play-circle.svg": "/YourFit/static/media/play-circle.1090b75b58d59e685047.svg",
+    "static/media/facebook.svg": "/YourFit/static/media/facebook.b18608150e18edf704e4d61b281ad070.svg",
+    "static/media/boxing-glove.svg": "/YourFit/static/media/boxing-glove.066a43d8852cf0b7bd9e.svg",
+    "static/media/time.svg": "/YourFit/static/media/time.a5595cb4e8b1e875c7a5.svg",
+    "index.html": "/YourFit/index.html",
+    "main.59fdc068.css.map": "/YourFit/static/css/main.59fdc068.css.map",
+    "main.9d2a4fe1.js.map": "/YourFit/static/js/main.9d2a4fe1.js.map",
+    "453.ed3810f9.chunk.js.map": "/YourFit/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59fdc068.css",
+    "static/js/main.9d2a4fe1.js"
+  ]
+}
