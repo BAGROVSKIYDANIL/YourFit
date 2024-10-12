@@ -16,11 +16,11 @@ function App() {
         <nav className="header">
           <img className="header__logo-image" src={Logo} alt="" />
           <ul className="header__menu">
-            <li><a href="#">Home</a></li>
-            <li><a href="#">About</a></li>
-            <li><a href="#">Trainers</a></li>
-            <li><a href="#">Review</a></li>
-            <li><a href="#">Plans</a></li>
+            <li><a href="/#">Home</a></li>
+            <li><a href="/#">About</a></li>
+            <li><a href="/#">Trainers</a></li>
+            <li><a href="/#">Review</a></li>
+            <li><a href="/#">Plans</a></li>
           </ul>
           <button className="header__join">Join Now</button>
         </nav>
@@ -38,13 +38,15 @@ function App() {
                   <button className="home__play-video">Play video</button>
                 </div>
                 <ul className="home__socials-links">
-                  <li><a href="#">
+                  <li><a href="/#">
                     <img src={FaceBook} alt="" /></a></li>
-                  <li><a href="#">
-                    <img src={Instagram} alt="" /></a></li>
-                  <li><a href="#">
+                  <li>
+                    <a href="https://www.instagram.com/yur_fit_god?igsh=bjFqdWVlN2w1djFy">
+                      <img src={Instagram} alt="" />
+                    </a></li>
+                  <li><a href="/#">
                     <img src={Linkedin} alt="" /></a></li>
-                  <li><a href="#">
+                  <li><a href="/#">
                     <img src={GitHub} alt="" /></a></li>
                 </ul>
               </div>
@@ -52,6 +54,55 @@ function App() {
                 <img src={Face} alt="" className="home__image-item" />
               </div>
             </div>
+            {/* <div className="home__statistics">
+              <div className="home__statistics-wrapper">
+                <div className="home__statistics-item">
+                  <div className="home__statistics-title">
+                    500+
+                  </div>
+                  <span className="home__statistics-subtitle">
+                    Happy Members
+                  </span>
+                  <span className="home__statistics-text">
+                    Our community is growing fast
+                  </span>
+                </div>
+                <div className="home__statistics-item">
+                  <div className="home__statistics-title">
+                    5+
+                  </div>
+                  <span className="home__statistics-subtitle">
+                    Year Experience 
+                  </span>
+                  <span className="home__statistics-text">
+                    Experience in various workouts  
+                  </span>
+                </div>
+                <div className="home__statistics-item">
+                  <div className="home__statistics-title">
+                    13+
+                  </div>
+                  <span className="home__statistics-subtitle">
+                    Certified Trainers
+                  </span>
+                  <span className="home__statistics-text">
+                    Guidance at every step.
+                  </span>
+                </div>
+                <div className="home__statistics-item">
+                  <div className="home__statistics-title">
+                        90%
+                  </div>
+                  <span className="home__statistics-subtitle">
+                    Customer Satisfaction
+                  </span>
+                  <span className="home__statistics-text">
+                    We ensure your progress satisfaction
+                  </span>
+                </div>
+              </div>
+            </div> */}
+        </section>
             <div className="home__statistics">
               <div className="home__statistics-wrapper">
                 <div className="home__statistics-item">
@@ -100,7 +151,6 @@ function App() {
                 </div>
               </div>
             </div>
-        </section>
         <section className="choose">
           <div className="choose__info">
             <h2 className="choose__title">Why Choose Us</h2>

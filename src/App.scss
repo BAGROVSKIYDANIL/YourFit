@@ -3,6 +3,10 @@
   width: 1425px;
   margin: 0 auto;
 }
+.App
+{
+  position: relative;
+}
 .App-header
 {
     padding-left: 63.5px;
@@ -52,6 +56,7 @@
 {
   display: flex;
   height: 690px;
+  justify-content: end;
   flex-direction: column;
   margin-top: 143.5px;
   &__wrapper 
@@ -133,7 +138,7 @@
     display: flex;
     align-items: center;
     position: absolute;
-    bottom: 0;
+    // bottom: -200px;
     width: 100%;
     height: 200px;
     left: 0;
@@ -143,7 +148,7 @@
   {
     display: flex;
     gap: 200px;
-    width: 1425px;
+    // width: 1425px;
     margin: 0 auto;
     padding-inline: 49px;
   }
@@ -181,7 +186,7 @@
 {
   display: flex;
   flex-direction: column;
-  margin-top: 98px;
+  margin-top: 298px;
   &__container-info
   {
     display: flex;
@@ -314,5 +319,13 @@
       border-radius: 38.033px;
       box-shadow: 64.383px 87.257px 30.497px 0px rgba(0, 0, 0, 0.00), 40.663px 55.912px 27.956px 0px rgba(0, 0, 0, 0.01), 22.873px 31.345px 23.72px 0px rgba(0, 0, 0, 0.05), 10.166px 13.554px 16.943px 0px rgba(0, 0, 0, 0.09), 2.541px 3.389px 9.319px 0px rgba(0, 0, 0, 0.10);
     }
+  }
+}
+@media(max-width: 1440px)
+{
+  .container
+  {
+    // width: 1140px;
+    width: initial;
   }
 }
